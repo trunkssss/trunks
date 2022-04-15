@@ -1,0 +1,29 @@
+{
+  "name": "trunks-utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "keywords": [
+    "trunks"
+  ],
+  "author": "zhijian.wang <604723443@qq.com>",
+  "homepage": "https://github.com/trunkssss/trunks/master/packages/trunks-utils",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trunkssss/trunks/master/packages/trunks-utils"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "slash2": "^2.0.0"
+  }
+}
