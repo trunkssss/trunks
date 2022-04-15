@@ -1,6 +1,6 @@
 {
   "name": "trunks-mock",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "> TODO: description",
   "keywords": [
     "trunks"
@@ -24,6 +24,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "trunks-utils": "^1.1.0"
+    "trunks-utils": "^1.1.1"
   }
 }
